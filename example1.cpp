@@ -7,6 +7,6 @@ double p,l,luas;
     cin>>p;
     cout<<"masukan lebar = ";
     cin>>l;
-    luas=p/l;
+    luas=p*l;
     cout<<"luas persegi panjang adalah "<<luas;
 }
